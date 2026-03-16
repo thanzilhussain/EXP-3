@@ -61,6 +61,9 @@ Tabulation:2
 
 OUTPUT:
 
+<img width="1180" height="832" alt="Screenshot 2026-02-25 215641" src="https://github.com/user-attachments/assets/62d65e53-f03f-4641-8867-c4cee8d717af" />
+
+<img width="1110" height="773" alt="Screenshot 2026-02-25 220551" src="https://github.com/user-attachments/assets/cb4bff9f-d218-465f-96b8-a6d490ee1150" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
