@@ -66,4 +66,5 @@ OUTPUT:
 <img width="1110" height="773" alt="Screenshot 2026-02-25 220551" src="https://github.com/user-attachments/assets/cb4bff9f-d218-465f-96b8-a6d490ee1150" />
 
 RESULT:
+
 Thus the staircase wiring is connected and tested.
